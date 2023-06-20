@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5decdf98-7af3-4473-b7cf-5ed83bb60030" name="Changes" comment="Homework 5 completed">
+    <list default="true" id="5decdf98-7af3-4473-b7cf-5ed83bb60030" name="Changes" comment="Homework 6 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,14 +88,22 @@
       <option name="project" value="LOCAL" />
       <updated>1687086934803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 6 completed">
+      <created>1687191113718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687191113718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 1 completed" />
     <MESSAGE value="Homework 4 completed" />
     <MESSAGE value="Homework 5 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 5 completed" />
+    <MESSAGE value="Homework 6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
